@@ -14,7 +14,7 @@ int main(void)
     {
         printf("Invalid input for age. Please enter a number.\n");
         return 1;
-    }*/ //I cannot figure out not yet.
+    }*/
     if(age < 0)
     {
         printf("Age cannot be negative.\n");
